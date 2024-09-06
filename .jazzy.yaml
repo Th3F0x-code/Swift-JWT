@@ -1,0 +1,12 @@
+module: SwiftJWT
+author: IBM & Kitura Project Contributors
+github_url: https://github.com/Kitura/Swift-JWT/
+
+theme: fullwidth
+clean: true
+exclude: [Packages]
+
+readme: README.md
+
+skip_undocumented: false
+hide_documentation_coverage: false
